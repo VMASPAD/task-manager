@@ -29,7 +29,9 @@ Task Manager is a modern desktop application built with Tauri and React that pro
 
 ## Screenshots
 
-_[Add screenshots here]_
+![Captura de pantalla 2025-03-01 122918](https://github.com/user-attachments/assets/d20a790d-5390-480c-bd96-b8b83b224ce0)
+![Captura de pantalla 2025-03-01 124329](https://github.com/user-attachments/assets/a331b5b7-4634-4a5a-bf0d-7f9cd9d80e7b)
+
 
 ## Installation
 
